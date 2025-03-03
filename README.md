@@ -43,7 +43,7 @@ CVInsight/
 ## 🛠️ Setup & Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/CVInsight.git
+git clone https://github.com/abdullahaish/CVInsight.git
 cd CVInsight
 ```
 
